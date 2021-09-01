@@ -7,5 +7,5 @@ if (userAnswer.toLocaleLowerCase() == 'yes')
 }
 else
 {
-    window.open(https://kstov.github.io/HTML/blank);
+    window.location = "https://kstov.github.io/HTML/blank";
 }

@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif/");
+}
+
+header, section, footer {
+text-align: center;
+border: white 1px solid;
+}
+
+h1 {
+    color: white;
+    font-size: 3.5rem;
+}
+
+.paragraph {
+    color: rgb(255, 255, 255);
+    font-size: 2.5rem;
+    padding: 5px;
+    margin: 50px;
+    background-color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    background-color: azure;
+    border-radius: 20px;
+}
+
+#footer {
+    color: white;
+    font-size: 2.5rem;
+}
+
+footer {
+    background-color: black;
+}

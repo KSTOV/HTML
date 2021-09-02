@@ -38,3 +38,10 @@ footer {
     background-color: black;
 }
 
+#coding {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 2rem;
+    padding: 10px;
+    background-color: black;
+}

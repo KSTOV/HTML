@@ -2,12 +2,18 @@ body{
     background-image: url("https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif/");
 }
 
-header, section, footer {
+header, footer {
 text-align: center;
 border: white 1px solid;
+background-color: black;
 }
 
-h1 {
+section {
+    text-align: center;
+    border: white 1px solid;
+}
+
+h1, h2 {
     color: white;
     font-size: 3.5rem;
 }
